@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Prosjektlogo](images/tittelheaderh.png)
 
 ## 💛 VÆR APP FOR FOLKET - TEAM 28 IN2000 UIO 💛
@@ -255,3 +256,7 @@ java TileServer //dette starter serveren
 
 ---
 ![Prosjektlogo](images/tittelheaderh.png)
+=======
+# Weather-Map-Application
+This is a group project made in the course IN2000 Software Engineering. We got nominated as one of the ten best projects of our year
+>>>>>>> origin/main
